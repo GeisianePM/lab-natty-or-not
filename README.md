@@ -1,4 +1,5 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+[Entendendo a diferença entre terapia cognitiva e comportamental.pdf](https://github.com/user-attachments/files/18447183/Entendendo.a.diferenca.entre.terapia.cognitiva.e.comportamental.pdf)
 
 ## 🚀 Introdução
 
@@ -20,19 +21,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Entendendo a diferença entre terapia cognitiva e comportamental
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book traz os conceitos e as principais diferenças entre terapia cognitiva e comportamental a fim de auxiliar as pessoas que procuram ajuda psicológica a identificar o tipo de tratamento mais adequado às suas necessidades.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+Ferramenta word para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Utilizei o "ChatGPT" para gerar o conteúdo sobre a diferença entre terapia cognitiva e comportamental. A montagem final foi feita no word.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Leia o e-book aqui [Entendendo a diferença entre terapia cognitiva e comportamental.pdf](https://github.com/user-attachments/files/18447183/Entendendo.a.diferenca.entre.terapia.cognitiva.e.comportamental.pdf)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
